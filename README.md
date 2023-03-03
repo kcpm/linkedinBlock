@@ -1,4 +1,4 @@
-# 🧘🏻‍♂️  LinkedIn Feed Blocker 2 (Block Harder)
+# LinkedIn Feed Blocker 2 (Block Harder)
 
 Firefox extension. Blocks network feed and news.
 
