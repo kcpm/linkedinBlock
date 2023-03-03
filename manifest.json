@@ -1,0 +1,21 @@
+{
+  "content_scripts": [
+    {
+      "css": [
+        "linkedinBlock.css"
+      ],
+      "matches": [
+        "*://*.linkedin.com/*"
+      ]
+    }
+  ],
+  "description": "Block feed and news.",
+  "icons": {
+    "16": "img/eyes-16.png",
+    "128": "img/eyes-128.png",
+    "512": "img/eyes-512.png"
+  },
+  "manifest_version": 2,
+  "name": "LinkedIn Feed Blocker 2",
+  "version": "0.0.2"
+}

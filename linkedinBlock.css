@@ -1,0 +1,4 @@
+.scaffold-layout__main,
+.scaffold-layout__aside {
+	display: none !important;
+}
